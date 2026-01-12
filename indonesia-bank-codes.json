@@ -138,5 +138,150 @@
     "name": "Bank Bali",
     "code": "129",
     "type": "BPD"
+  },
+  {
+    "name": "Bank BTPN / Jenius",
+    "code": "213",
+    "type": "Swasta Nasional"
+  },
+  {
+    "name": "Bank Mega",
+    "code": "426",
+    "type": "Swasta Nasional"
+  },
+  {
+    "name": "Bank Sinarmas",
+    "code": "153",
+    "type": "Swasta Nasional"
+  },
+  {
+    "name": "Bank Bukopin (KB Bukopin)",
+    "code": "441",
+    "type": "Swasta Nasional"
+  },
+  {
+    "name": "Bank Mayapada",
+    "code": "097",
+    "type": "Swasta Nasional"
+  },
+  {
+    "name": "Citibank",
+    "code": "031",
+    "type": "Asing"
+  },
+  {
+    "name": "Standard Chartered Bank",
+    "code": "050",
+    "type": "Asing"
+  },
+  {
+    "name": "Bank HSBC Indonesia",
+    "code": "087",
+    "type": "Asing"
+  },
+  {
+    "name": "Bank DBS Indonesia",
+    "code": "046",
+    "type": "Asing"
+  },
+  {
+    "name": "Bank Aceh Syariah",
+    "code": "116",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Sumut",
+    "code": "117",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Nagari (Sumbar)",
+    "code": "118",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Riau Kepri Syariah",
+    "code": "119",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Jambi",
+    "code": "115",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Bengkulu",
+    "code": "133",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Sumsel Babel",
+    "code": "120",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Lampung",
+    "code": "121",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Kalbar",
+    "code": "123",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Kaltimtara",
+    "code": "124",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Kalsel",
+    "code": "122",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Kalteng",
+    "code": "125",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Sulselbar",
+    "code": "126",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank SulutGo",
+    "code": "127",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank NTB Syariah",
+    "code": "128",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank NTT",
+    "code": "130",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Maluku Malut",
+    "code": "131",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Papua",
+    "code": "132",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Sultra",
+    "code": "135",
+    "type": "BPD"
+  },
+  {
+    "name": "Bank Sulteng",
+    "code": "134",
+    "type": "BPD"
   }
 ]
