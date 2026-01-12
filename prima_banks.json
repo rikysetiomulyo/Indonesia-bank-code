@@ -1,0 +1,397 @@
+[
+  {
+    "name": "Allo Bank",
+    "code": "567",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Amar Bank",
+    "code": "531",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Aceh Syariah",
+    "code": "116",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Artha Graha Internasional",
+    "code": "037",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BCA",
+    "code": "014",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BCA Syariah",
+    "code": "536",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BJB",
+    "code": "110",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BJB Syariah",
+    "code": "425",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BNI",
+    "code": "009",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BPD Bali",
+    "code": "129",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BPD DIY",
+    "code": "112",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BRI",
+    "code": "002",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BTN",
+    "code": "200",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank BTPN Syariah",
+    "code": "547",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Banten",
+    "code": "137",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Bumi Arta",
+    "code": "076",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank CCB Indonesia",
+    "code": "036",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank CIMB Niaga",
+    "code": "022",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank CTBC Indonesia",
+    "code": "949",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Capital Indonesia",
+    "code": "054",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank DBS Indonesia",
+    "code": "046",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Danamon",
+    "code": "011",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Digital BCA",
+    "code": "501",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank HSBC Indonesia",
+    "code": "087",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Ina Perdana",
+    "code": "513",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Index Selindo",
+    "code": "555",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Jakarta",
+    "code": "111",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Jateng",
+    "code": "113",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Jatim",
+    "code": "114",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Jtrust Indonesia",
+    "code": "095",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank KB Bukopin",
+    "code": "441",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank KB Syariah Bukopin",
+    "code": "521",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank KEB Hana Indonesia",
+    "code": "484",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Kalbar",
+    "code": "123",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Kalteng",
+    "code": "125",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Kaltimtara",
+    "code": "124",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank MNC",
+    "code": "485",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Maluku Malut",
+    "code": "131",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Mandiri",
+    "code": "008",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Maspion",
+    "code": "157",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Mayapada",
+    "code": "097",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Maybank Indonesia",
+    "code": "016",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Mega",
+    "code": "426",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Mega Syariah",
+    "code": "506",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Mestika",
+    "code": "151",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Muamalat",
+    "code": "147",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Multiarta Sentosa",
+    "code": "548",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Nagari",
+    "code": "118",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank National Nobu",
+    "code": "503",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Neo Commerce",
+    "code": "490",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank OCBC NISP",
+    "code": "028",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Panin",
+    "code": "019",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Papua",
+    "code": "132",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Permata",
+    "code": "013",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank QNB Indonesia",
+    "code": "167",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Riau Kepri Syariah",
+    "code": "119",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank SBI Indonesia",
+    "code": "498",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank SMBC",
+    "code": "213",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sahabat Sampoerna",
+    "code": "523",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Saqu",
+    "code": "472",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Shinhan",
+    "code": "152",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sinarmas",
+    "code": "153",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sleman",
+    "code": "622",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sulselbar",
+    "code": "126",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sulutgo",
+    "code": "127",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sumselbabel",
+    "code": "120",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Sumut",
+    "code": "117",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Syariah Indonesia",
+    "code": "451",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank UOB Indonesia",
+    "code": "023",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Victoria",
+    "code": "566",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Victoria Syariah",
+    "code": "405",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank Woori Saudara",
+    "code": "212",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Bank of China Jakarta Branch",
+    "code": "069",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "IBK Bank Indonesia",
+    "code": "945",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Krom Bank",
+    "code": "459",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "MUFG Bank",
+    "code": "042",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Panin Dubai Syariah Bank",
+    "code": "517",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Prima Master Bank",
+    "code": "520",
+    "source": "Jaringan PRIMA"
+  },
+  {
+    "name": "Standard Chartered Bank",
+    "code": "050",
+    "source": "Jaringan PRIMA"
+  }
+]
