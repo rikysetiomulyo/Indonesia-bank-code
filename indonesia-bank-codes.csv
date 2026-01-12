@@ -1,0 +1,29 @@
+name,code,type
+Bank BRI,002,BUMN
+Bank Mandiri,008,BUMN
+Bank BNI,009,BUMN
+Bank BTN,200,BUMN
+Bank BCA,014,Swasta Nasional
+Bank CIMB Niaga,022,Swasta Nasional
+Bank Danamon,011,Swasta Nasional
+Bank Permata,013,Swasta Nasional
+Bank Maybank Indonesia,016,Swasta Nasional
+Bank Panin,019,Swasta Nasional
+Bank OCBC NISP,028,Swasta Nasional
+Bank UOB Indonesia,023,Swasta Nasional
+Bank Syariah Indonesia (BSI),451,Syariah
+Bank Muamalat,147,Syariah
+Bank Mega Syariah,506,Syariah
+Bank BCA Syariah,536,Syariah
+Bank Jago,542,Digital
+SeaBank,535,Digital
+Bank Neo Commerce,490,Digital
+BCA Digital (Blu),501,Digital
+Bank Aladin Syariah,947,Digital
+Bank Raya (d/h BRI Agro),494,Digital
+Bank DKI,111,BPD
+Bank BJB (Jawa Barat),110,BPD
+Bank Jateng,113,BPD
+Bank Jatim,114,BPD
+Bank DIY,112,BPD
+Bank Bali,129,BPD
